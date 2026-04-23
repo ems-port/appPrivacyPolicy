@@ -60,5 +60,5 @@ You can delete locally stored app data by removing the app from your device or u
 
 If you have privacy questions about Cubie Solver, contact:
 
-`privacy@cubiesolver.app`
+`pa.eryk.sokolowski@gmail.com`
 
